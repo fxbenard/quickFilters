@@ -6,7 +6,7 @@
     "message": "À propos"
   },
   "account.label": {
-    "message": "Choix du compte :"
+    "message": "Choix du compte :"
   },
   "active-version-info": {
     "description": "The boldStart and boldEnd parts will be replaced with html tags",
@@ -29,10 +29,10 @@
     "message": "Je souhaite prolonger ma licence d'un an"
   },
   "btn-renew-license": {
-    "message": "Haluan uusia lisenssin"
+    "message": "Je souhaite renouveler ma licence"
   },
   "btn-want-a-license": {
-    "message": "Je veux acheter une licence"
+    "message": "Je souhaite acheter une licence"
   },
   "btn-want-to-donate": {
     "message": "Je veux aider avec un don unique."
@@ -68,7 +68,7 @@
     "message": "Quitter l'assistant de filtre après la création d'un filtre"
   },
   "chkAutoRun.label": {
-    "message": "Lors de la réception d'un nouveau message"
+    "message": "À la réception d'un nouveau message"
   },
   "chkAutoStart.accesskey": {
     "message": "A"
@@ -83,7 +83,7 @@
     "message": "Trouver les filtres pour ce dossier"
   },
   "chkCurrentToolbar.btn.FindFilter.tooltip": {
-    "message": "Trouve tous les fichiers qui ont déplacé le message vers ce dossier."
+    "message": "Trouver tous les filtres qui ont déplacé le message vers ce dossier."
   },
   "chkCurrentToolbar.btn.RunOnFolder.label": {
     "message": "Appliquer les filtres au dossier"
@@ -98,13 +98,13 @@
     "message": "Mode débogage"
   },
   "chkImapOnRead.label": {
-    "message": "Lancer également le filtre pur les courriels lus sur les comptes IMAP."
+    "message": "Lancer également le filtre pour les courriels lus sur les comptes IMAP."
   },
   "chkInsertRulesAtTop.label": {
-    "message": "Add new rules on top of list."
+    "message": "Ajouter les nouvelles règles en haut de la liste."
   },
   "chkLocalFoldersAutorun.label": {
-    "message": "Run filters on Local Folders Inbox automatically"
+    "message": "Filtrer automatiquement la boîte de réception des dossiers locaux"
   },
   "chkMergeAuto.label": {
     "message": "Sélectionner automatiquement la fusion"
@@ -119,25 +119,25 @@
     "message": "Ignore l'étape de sélection de la cible pour fusion et va directement à l'étape de sélection du modèle."
   },
   "chkPeriodically.label": {
-    "message": "Run Periodically"
+    "message": "Exécuter périodiquement"
   },
   "chkPeriodically.tooltip": {
-    "message": "Runs the filter in regular intervals"
+    "message": "Exécuter le nettoyage du filtre à intervalles réguliers."
   },
   "chkRunManual.label": {
-    "message": "Run manually"
+    "message": "Exécuter manuellement"
   },
   "chkShowEditor.label": {
-    "message": "Open Editor after filter creation"
+    "message": "Ouvrir l'éditeur après la création de filtre"
   },
   "chkShowList.label": {
     "message": "Afficher la liste des filtres après création de filtre"
   },
   "chkShowList.tooltip": {
-    "message": "Affiche la liste afin d'appliquer le nouveau filtre sur tous les messages pour test."
+    "message": "Afficher la liste afin d'appliquer le nouveau filtre sur tous les messages pour tester."
   },
   "chkToolbar.accesskey": {
-    "message": "b"
+    "message": "T"
   },
   "chkToolbar.label": {
     "message": "Afficher la barre d'outils dans le gestionnaire de filtre"
@@ -179,14 +179,14 @@
     "message": "Saisir la clé de licence…"
   },
   "enterLicenseKey.tooltip": {
-    "message": "Saisissez la clé de licence vous ayant été envoyée par courriel."
+    "message": "Saisissez la clé de licence qui vous a été envoyée par courriel."
   },
   "extend-your-license": {
     "message": "Pensez à prolonger votre licence d'un an."
   },
   "extensionDescription": {
     "description": "Description of the extension.",
-    "message": "Générez rapidement des règles de filtrage des e-mails à la volée, en faisant glisser et déposer des e-mails et en analysant leurs attributs."
+    "message": "Générez rapidement des règles de filtrage des courriels à la volée, par glisser/déposer et en analysant leurs attributs."
   },
   "extensionName": {
     "description": "Name of the extension.",
@@ -625,10 +625,10 @@
     "message": "Les paramètres suivants seront appliqués à tous les nouveaux filtres créés avec l'assistant de filtrage."
   },
   "qf.notify.filterCreated": {
-    "message": "Le nouveau filtre '{0}' a été créé avec succès."
+    "message": "Le nouveau filtre '{0}' a bien été créé."
   },
   "qf.notify.filterMergeUpdated": {
-    "message": "Le filtre '{0}' a été mis à jour avec succès."
+    "message": "Le filtre '{0}' a bien été mis à jour"
   },
   "qf.onewayaddress.label": {
     "message": "Désactiver les doubles-conditions de recherche d'adresse"
@@ -982,16 +982,16 @@
     "message": "Télécharger depuis le serveur POP"
   },
   "quickfilters.filters.toggleMessage.dontShow": {
-    "message": "Ne plus afficher ce message à l'avenir."
+    "message": "Ne plus afficher ce message."
   },
   "quickfilters.filters.toggleMessage.notificationText": {
-    "message": "Le mode d'assistance de création de filtre a démarré. Chaque fois que vous déplacerez un courriel dans un autre dossier de message un assistant de création de règle de filtre démarrera. #1 utilise les filtres de message pour déplacer automatiquement les courriels en se basant sur des règles comme"
+    "message": "Le mode d'assistance de création de filtre est lancé. Chaque fois que vous déplacerez un message dans un autre dossier, un assistant de création de règle de filtre démarrera. #1 utilise les filtres de message pour déplacer automatiquement les messages en se basant sur des règles comme « Qui est l‘expéditeur » "
   },
   "quickfilters.filters.toggleMessage.title": {
     "message": "Mode d'assistance de création de filtre"
   },
   "quickfilters.findFiltersForFolder.menu": {
-    "message": "Recherche de filtres…"
+    "message": "Rechercher de filtres…"
   },
   "quickfilters.forwardTo.label": {
     "message": "Transférer le message à"
@@ -1033,7 +1033,7 @@
     "message": "Supprimer la condition en doublon"
   },
   "quickfilters.merge.addressesOmitted": {
-    "message": "Des adresses  électroniques ont été omises par les conditions - quickFilters désactive le filtrage de votre propre adresse :"
+    "message": "Des adresses électroniques ont été omises par les conditions - quickFilters désactive le filtrage de votre propre adresse :"
   },
   "quickfilters.merge.warning.missingAction": {
     "message": "Impossible d'obtenir l'action principale de ce filtre :{1}"
@@ -1340,7 +1340,7 @@
   },
   "translated-by-google": {
     "description": "disclaimer.",
-    "message": "traductions fournies par google"
+    "message": "traductions fournies par Google"
   },
   "updates.title": {
     "message": "Mises à jour"
